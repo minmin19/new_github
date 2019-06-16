@@ -2,7 +2,7 @@ class Hi{
 
 	public void hi(){
 
-	System.out.println("hi~~~roo111");
+	System.out.println("hi~~~roo");
 }
 
 }
