@@ -1,0 +1,8 @@
+class Hi{
+
+	public void hi(){
+
+	System.out.println("hi~~~roo");
+}
+
+}
